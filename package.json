@@ -1,13 +1,22 @@
 {
   "name": "slateconfig",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Config files for the Slate Framework",
   "author": "Hash&Salt",
   "email": "hello@hashandsalt.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HashandSalt/slateconfig"
+  },
+  "bugs": {
+    "url": "https://github.com/HashandSalt/slateconfig/issues"
+  },
   "main": "slate/_slate-engine.scss",
   "devDependencies": {
-    "normalize.css": "^8.0.0"
+
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
 }
