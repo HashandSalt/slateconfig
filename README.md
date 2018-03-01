@@ -4,7 +4,7 @@ This repository is part of the _Slate Framework_. _Slate_ is a responsive, moder
 
 ### Quick Start
 
-Download the files and import `_slate-engine.scss` at the top of your sass file to override the default variables. It includes [Normalize](https://necolas.github.io/normalize.css/), so if you use that already, remove your copy.
+Download the files and import `_slate-engine.scss` at the top of your sass file to override the default variables. _Slate Core_ was intended to be used along side [Normalize](https://necolas.github.io/normalize.css/), so please install that into your project too, and include it above `_slate-engine.scss` in your Sass file.
 
 ### Don't have an asset pipeline?
 
