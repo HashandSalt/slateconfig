@@ -1,6 +1,6 @@
 {
   "name": "slateconfig",
-  "version": "0.5.1",
+  "version": "5.3.1",
   "description": "Config files for the Slate Framework",
   "author": "Hash&Salt",
   "email": "hello@hashandsalt.com",
@@ -17,6 +17,5 @@
 
   },
   "dependencies": {
-    "normalize.css": "^8.0.0"
   }
 }
